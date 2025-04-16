@@ -1,4 +1,4 @@
-##  YouTube Video Search App (React Native + YouTube API)
+## <img src="https://github.com/user-attachments/assets/3bee36e5-c905-443f-a5ed-960f6255a1c0" width="50" height="50" /> YouTube Video Search App (React Native + YouTube API)  
 
 This is a simple mobile application built with React Native using the YouTube Data API. The app allows users to search for videos and display them inside the app using a WebView.
 
